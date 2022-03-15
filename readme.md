@@ -1,1 +1,2 @@
-i made chess with pygame.
+#test
+i made chess with pygame
